@@ -37,7 +37,7 @@ Installation in 3 Steps
 Clone the repository
 
 
-git clone https://github.com/yourusername/discord-reaction-roles-bot.git
+git clone https://github.com/eberi-hvh/discord-reaction-roles-bot.git
 cd discord-reaction-roles-bot
 Install dependencies
 
